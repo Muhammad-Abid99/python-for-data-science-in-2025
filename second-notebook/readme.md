@@ -33,4 +33,3 @@ This Jupyter notebook provides hands-on practice and explanations for core Pytho
 1. Open the notebook in Jupyter or any compatible environment.
 2. Run each cell to understand and experiment with Python concepts.
 3. Modify the code to reinforce your understanding.
-
