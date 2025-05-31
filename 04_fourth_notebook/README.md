@@ -35,3 +35,16 @@ Python lists are dynamic, ordered collections that can store heterogeneous data 
 - **Nested Lists:** Lists can contain other lists, enabling multi-dimensional data structures.
 
 ---
+
+### Lists vs Arrays
+
+| Feature                  | List                               | Array (Python `array` module)      |
+|--------------------------|------------------------------------|------------------------------------|
+| Size                     | Dynamic                            | Fixed                              |
+| Data Type                | Heterogeneous                      | Homogeneous                        |
+| Speed                    | Slower                             | Faster                             |
+| Memory Usage             | Higher (reference-based)           | Lower (contiguous memory)          |
+
+Lists are more flexible but generally slower and less memory-efficient than arrays, which are best used for large, homogeneous numerical data.
+
+---
