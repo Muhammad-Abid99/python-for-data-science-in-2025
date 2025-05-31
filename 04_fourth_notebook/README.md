@@ -65,3 +65,38 @@ Examples include:
 - Type-converted lists (e.g., `list('hello')`)
 
 ---
+
+### Accessing Items
+
+- **Indexing:** Access elements by position (supports both positive and negative indices).
+- **Slicing:** Retrieve sublists using slice notation.
+- **Nested Indexing:** Access items within nested lists (2D/3D).
+
+---
+
+### Adding Items
+
+- `append(item)`: Adds a single element to the end.
+- `extend(iterable)`: Adds all elements from another iterable.
+- `insert(index, item)`: Inserts an item at a specific position.
+
+Each method is illustrated with code and explanations, including edge cases (e.g., appending a list vs extending).
+
+---
+
+### Editing Items
+
+- Modify elements using indexing or slicing.
+- Replace single or multiple elements in place.
+
+---
+
+### Deleting Items
+
+- `remove(value)`: Deletes the first occurrence of a value.
+- `pop(index)`: Removes and returns the item at the given index (default: last item).
+- `del`: Deletes items by index or range, or deletes the entire list.
+- `clear()`: Removes all items, leaving an empty list.
+
+---
+
