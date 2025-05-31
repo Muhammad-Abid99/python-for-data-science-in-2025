@@ -48,3 +48,20 @@ Python lists are dynamic, ordered collections that can store heterogeneous data 
 Lists are more flexible but generally slower and less memory-efficient than arrays, which are best used for large, homogeneous numerical data.
 
 ---
+
+### Memory Representation
+
+The notebook demonstrates the use of Python's built-in `id()` function to inspect the memory addresses of lists and their elements. This helps clarify that lists store references to objects, not the objects themselves.
+
+---
+
+### Creating Lists
+
+Examples include:
+
+- Empty lists
+- 1D, 2D, and 3D lists
+- Homogeneous and heterogeneous lists
+- Type-converted lists (e.g., `list('hello')`)
+
+---
