@@ -20,3 +20,18 @@ This notebook provides a comprehensive, hands-on exploration of Python lists, co
 - Examples and Code Snippets
 
 ---
+
+### Overview
+
+Python lists are dynamic, ordered collections that can store heterogeneous data types. They are foundational to Python programming, supporting a wide range of operations for data manipulation and analysis.
+
+#### Key Features
+
+- **Dynamic Sizing:** Lists can grow or shrink as needed.
+- **Heterogeneous Storage:** Store items of different types in the same list.
+- **Mutable:** Items can be changed after creation.
+- **Ordered:** Items maintain insertion order.
+- **Support for Duplicates:** Multiple identical items allowed.
+- **Nested Lists:** Lists can contain other lists, enabling multi-dimensional data structures.
+
+---
