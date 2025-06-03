@@ -16,3 +16,7 @@ This Jupyter Notebook provides a comprehensive introduction to **tuples** in Pyt
 - Deleting and Modifying Tuples
 - Using `zip()` with Tuples
 - Summary Tables
+
+### What is a Tuple?
+
+A **tuple** is a built-in Python data structure that stores multiple items in a single variable. Unlike lists, tuples are **immutable**—their contents cannot be changed after creation. They are defined using parentheses `()` and can contain elements of any data type, including other tuples.
