@@ -54,3 +54,15 @@ A **tuple** is a built-in Python data structure that stores multiple items in a 
   1. Convert the tuple to a list.
   2. Modify the list.
   3. Convert back to a tuple.
+
+### Deleting and Modifying Tuples
+
+- **Delete entire tuple**: Use `del tuple_name`.
+- **Cannot delete single items directly**: Use the list conversion workaround.
+- **Clear tuple**: Assign `()` to the variable or delete it.
+
+### Using `zip()` with Tuples
+
+- Combine multiple tuples into an iterator of tuples.
+- Stops at the shortest input if lengths differ.
+- Can "unzip" using the unpacking operator `*`.
