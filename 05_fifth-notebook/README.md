@@ -38,3 +38,19 @@ A **tuple** is a built-in Python data structure that stores multiple items in a 
 - **Length**: Use `len()` to get the number of elements.
 - **Unpacking**: Assign tuple elements to variables.
 - **Slicing**: Extract sub-tuples.
+
+---
+
+### Tuple Methods and Built-in Functions
+
+- `.count(x)`: Count occurrences of `x`.
+- `.index(x)`: Find the first index of `x`.
+- `min(tuple)`, `max(tuple)`, `sum(tuple)`: Aggregate numeric operations.
+
+### Immutability and Workarounds
+
+- Tuples cannot be changed after creation.
+- To "remove" an element:
+  1. Convert the tuple to a list.
+  2. Modify the list.
+  3. Convert back to a tuple.
