@@ -66,3 +66,26 @@ A **tuple** is a built-in Python data structure that stores multiple items in a 
 - Combine multiple tuples into an iterator of tuples.
 - Stops at the shortest input if lengths differ.
 - Can "unzip" using the unpacking operator `*`.
+
+---
+
+### Usage Recommendations
+
+- Use tuples for fixed collections of items that should not change (e.g., database records, settings).
+- Prefer tuples over lists for data integrity and slight performance gains.
+
+### Author
+
+This notebook was prepared to serve as a practical and conceptual guide for Python learners and programmers interested in mastering tuples.
+
+### How to Run
+
+1. Open the notebook in Jupyter Notebook or JupyterLab.
+2. Run each cell sequentially to see explanations and code outputs.
+3. Modify or experiment with the code to deepen your understanding.
+
+---
+
+### License
+
+This notebook is intended for educational use. Please cite the author if you share or modify the content.
