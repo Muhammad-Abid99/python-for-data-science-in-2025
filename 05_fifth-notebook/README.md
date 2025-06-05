@@ -90,16 +90,6 @@ This Jupyter Notebook provides a detailed introduction to **sets**, a fundamenta
 
 ---
 
-### Author
-
-This notebook was prepared to serve as a practical and conceptual guide for Python learners and programmers interested in mastering tuples.
-
-### How to Run
-
-1. Open the notebook in Jupyter Notebook or JupyterLab.
-2. Run each cell sequentially to see explanations and code outputs.
-3. Modify or experiment with the code to deepen your understanding.
-
 ### 🧪 Code Highlights
 
 Examples from the notebook include:
@@ -122,6 +112,17 @@ x = {"apple", "banana", "cherry"}
 y = {"google", "apple"}
 print(x.isdisjoint(y))  # Output: False
 ```
+
+### Author
+
+This notebook was prepared to serve as a practical and conceptual guide for Python learners and programmers interested in mastering tuples.
+
+### How to Run
+
+1. Open the notebook in Jupyter Notebook or JupyterLab.
+2. Run each cell sequentially to see explanations and code outputs.
+3. Modify or experiment with the code to deepen your understanding.
+
 ### License
 
 This notebook is intended for educational use. Please cite the author if you share or modify the content.
