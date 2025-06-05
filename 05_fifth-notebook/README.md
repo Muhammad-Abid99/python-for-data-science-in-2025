@@ -86,6 +86,11 @@ This notebook was prepared to serve as a practical and conceptual guide for Pyth
 
 ---
 
+# Sets in Python
+
+This Jupyter Notebook provides a detailed introduction to **sets**, a fundamental data structure in Python. Sets are collections of **unordered, unindexed, and unique** elements, useful in data science, competitive programming, and general-purpose coding.
+
+
 ### License
 
 This notebook is intended for educational use. Please cite the author if you share or modify the content.
