@@ -113,6 +113,13 @@ y = {"google", "apple"}
 print(x.isdisjoint(y))  # Output: False
 ```
 
+### 🛠 Requirements
+
+* Python 3.x
+* Jupyter Notebook (via Anaconda or `pip install notebook`)
+
+No external libraries are required.
+
 ### Author
 
 This notebook was prepared to serve as a practical and conceptual guide for Python learners and programmers interested in mastering tuples.
