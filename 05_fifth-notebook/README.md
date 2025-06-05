@@ -100,6 +100,28 @@ This notebook was prepared to serve as a practical and conceptual guide for Pyth
 2. Run each cell sequentially to see explanations and code outputs.
 3. Modify or experiment with the code to deepen your understanding.
 
+### 🧪 Code Highlights
+
+Examples from the notebook include:
+
+```python
+# Set creation
+my_set = {"apple", "banana", "cherry"}
+my_set = set([1, 2, 3, 4])
+
+# Set operations
+a = {1, 2, 3}
+b = {3, 4, 5}
+print(a | b)  # Union
+print(a & b)  # Intersection
+print(a - b)  # Difference
+print(a ^ b)  # Symmetric difference
+
+# Disjoint check
+x = {"apple", "banana", "cherry"}
+y = {"google", "apple"}
+print(x.isdisjoint(y))  # Output: False
+```
 ### License
 
 This notebook is intended for educational use. Please cite the author if you share or modify the content.
