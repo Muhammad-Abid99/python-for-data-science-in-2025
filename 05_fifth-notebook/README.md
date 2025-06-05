@@ -74,6 +74,22 @@ A **tuple** is a built-in Python data structure that stores multiple items in a 
 - Use tuples for fixed collections of items that should not change (e.g., database records, settings).
 - Prefer tuples over lists for data integrity and slight performance gains.
 
+---
+
+## Sets in Python
+
+This Jupyter Notebook provides a detailed introduction to **sets**, a fundamental data structure in Python. Sets are collections of **unordered, unindexed, and unique** elements, useful in data science, competitive programming, and general-purpose coding.
+
+### 📘 What You'll Learn
+
+* The definition and characteristics of sets in Python.
+* How to create and manipulate sets using curly braces `{}` and the `set()` constructor.
+* Built-in operations on sets: `union`, `intersection`, `difference`, `symmetric_difference`.
+* Set-specific methods like `isdisjoint()`, `issubset()`, and `issuperset()`.
+* Practical examples to visualize how set operations work.
+
+---
+
 ### Author
 
 This notebook was prepared to serve as a practical and conceptual guide for Python learners and programmers interested in mastering tuples.
@@ -83,13 +99,6 @@ This notebook was prepared to serve as a practical and conceptual guide for Pyth
 1. Open the notebook in Jupyter Notebook or JupyterLab.
 2. Run each cell sequentially to see explanations and code outputs.
 3. Modify or experiment with the code to deepen your understanding.
-
----
-
-# Sets in Python
-
-This Jupyter Notebook provides a detailed introduction to **sets**, a fundamental data structure in Python. Sets are collections of **unordered, unindexed, and unique** elements, useful in data science, competitive programming, and general-purpose coding.
-
 
 ### License
 
